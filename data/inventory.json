@@ -1,0 +1,187 @@
+{
+  "chapters": [
+    [
+      1,
+      "자기소개",
+      "Perkenalan Diri"
+    ],
+    [
+      2,
+      "생활용품",
+      "Barang Kebutuhan Sehari-hari"
+    ],
+    [
+      3,
+      "위치와 장소",
+      "Lokasi dan Tempat"
+    ],
+    [
+      4,
+      "동작과 사물",
+      "Aksi dan Benda"
+    ],
+    [
+      5,
+      "날짜와 요일",
+      "Tanggal & Hari"
+    ],
+    [
+      6,
+      "하루 일과",
+      "Rutinitas Sehari-hari"
+    ],
+    [
+      7,
+      "계절과 날씨",
+      "Musim dan Cuaca"
+    ],
+    [
+      8,
+      "가족과 친구",
+      "Keluarga dan Teman"
+    ],
+    [
+      9,
+      "음식 주문",
+      "Memesan Makanan"
+    ],
+    [
+      10,
+      "물건 구입",
+      "Membeli Barang"
+    ],
+    [
+      11,
+      "집안일",
+      "Pekerjaan Rumah"
+    ],
+    [
+      12,
+      "대중교통",
+      "Tansportasi Umum"
+    ],
+    [
+      13,
+      "주말 활동",
+      "AKTIVITAS AKHIR PEKAN"
+    ],
+    [
+      14,
+      "길 찾기",
+      "Mencari Jalan"
+    ],
+    [
+      15,
+      "옷차림",
+      "Berpakaian"
+    ],
+    [
+      16,
+      "집 구하기",
+      "Mencari Rumah"
+    ],
+    [
+      17,
+      "휴가",
+      "Cuti"
+    ],
+    [
+      18,
+      "취미",
+      "Hobi"
+    ],
+    [
+      19,
+      "요리",
+      "Memasak"
+    ],
+    [
+      20,
+      "인터넷과 스마트폰",
+      "Internet dan Smartphone"
+    ],
+    [
+      21,
+      "병원",
+      "Rumah Sakit"
+    ],
+    [
+      22,
+      "약국",
+      "Apotek"
+    ],
+    [
+      23,
+      "우체국",
+      "Kantor Pos"
+    ],
+    [
+      24,
+      "은행",
+      "Bank"
+    ],
+    [
+      25,
+      "외국인 근로자 지원기관",
+      "Pusat Dukungan Pekerja Asing"
+    ],
+    [
+      26,
+      "한국의 주거 문화와 음식 문화",
+      "Budaya Rumah dan Makanan Korea"
+    ],
+    [
+      27,
+      "한국의 기념일",
+      "Hari Peringatan Korea"
+    ],
+    [
+      28,
+      "한국의 명절",
+      "Hari raya korea"
+    ],
+    [
+      29,
+      "한국의 예절",
+      "Tata Krama Korea"
+    ],
+    [
+      30,
+      "한국의 대중문화",
+      "Budaya Populer Korea"
+    ]
+  ],
+  "counts": {
+    "1": 43,
+    "2": 27,
+    "3": 33,
+    "4": 29,
+    "5": 55,
+    "6": 52,
+    "7": 31,
+    "8": 55,
+    "9": 37,
+    "10": 42,
+    "11": 50,
+    "12": 39,
+    "13": 36,
+    "14": 32,
+    "15": 33,
+    "16": 37,
+    "17": 36,
+    "18": 36,
+    "19": 43,
+    "20": 31,
+    "21": 46,
+    "22": 32,
+    "23": 33,
+    "24": 41,
+    "25": 35,
+    "26": 42,
+    "27": 41,
+    "28": 32,
+    "29": 34,
+    "30": 29
+  },
+  "totalVocabulary": 1142
+}
