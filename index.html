@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="id">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#0b5cff">
+  <meta name="description" content="EPS-TOPIK Vocabulary Quiz — belajar kosakata Bab 1–30 secara interaktif.">
+  <title>EPS-TOPIK Vocabulary Quiz</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div id="app" class="app-shell">
+    <header class="topbar">
+      <a class="brand" href="#home" aria-label="EPS-TOPIK Vocabulary Quiz">
+        <span class="brand-mark" aria-hidden="true">K</span>
+        <span><strong>EPS-TOPIK</strong><small>Vocabulary Quiz</small></span>
+      </a>
+      <nav class="nav" aria-label="Navigasi utama">
+        <a href="#home" data-nav="home">Home</a>
+        <a href="#chapters" data-nav="chapters">Chapters</a>
+        <a href="#vocabulary" data-nav="vocabulary">Vocabulary</a>
+        <a href="#flashcards" data-nav="flashcards">Flashcards</a>
+        <a href="#statistics" data-nav="statistics">Statistics</a>
+      </nav>
+      <button id="themeToggle" class="icon-btn" type="button" aria-label="Ubah mode warna">☼</button>
+    </header>
+
+    <main id="main" tabindex="-1"></main>
+
+    <div id="toast" class="toast" role="status" aria-live="polite"></div>
+  </div>
+
+  <script src="data/chapters.js"></script>
+  <script src="data/vocabulary.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>
